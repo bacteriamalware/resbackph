@@ -31,7 +31,7 @@ print "\t>  |   server irc:  irc.zone-h.esy.es (6667)           |    >\n\n";
 print "\t>  |            Admin Finder 2018                      |    >\n\n";  
 print "\t> [x]=================================================[x]   >\n\n";
 print "\t>  |   [-] Please wait loading to scanning...          |    >\n\n";
-print "\t>  |    K0nt - powerboxxx - jHr - roin - uyap - bogel  |    >\n\n";
+print "\t>  | K0nt - powerboxxx - RamZkiE - roin - uyap - bogel |    >\n\n";
 print "\t>  |      powerboxxx - div - OpCode - Ken - David      |    >\n\n";
 print "\t> [!] ======Th4nks to all legendary Friend============ [!]  >\n\n";
 print "\t>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>\n\n";
