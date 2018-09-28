@@ -28,7 +28,7 @@ print "\t> [!]=================================================[!]   >\n\n";
 print "\t>  |   ResbackPH TeaM Philippines Hacker Link          |    >\n\n";
 print "\t>  |     Created By ScopeX and jHr                     |    >\n\n";
 print "\t>  |   server irc:  irc.zone-h.esy.es (6667)           |    >\n\n";
-print "\t>  |            Admin Finder 2018                      |    >\n\n";  
+print "\t>  |    Konektado Backdoor Shell 2018                  |    >\n\n";  
 print "\t> [x]=================================================[x]   >\n\n";
 print "\t>  |   [-] Please wait loading to scanning...          |    >\n\n";
 print "\t>  | K0nt - powerboxxx - RamZkiE - roin - uyap - bogel |    >\n\n";
